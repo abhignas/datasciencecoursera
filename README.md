@@ -1,2 +1,2 @@
-# datasciencecoursera
+# datascience
 A datascience repository
